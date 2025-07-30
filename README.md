@@ -1,4 +1,4 @@
-# Template de Landing Page com Shadcn/Vue
+# Landing Page com Shadcn/Vue
 
 ## Deploy
 Deploy do projeto: 
