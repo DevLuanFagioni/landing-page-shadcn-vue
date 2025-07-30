@@ -1,7 +1,7 @@
 # Landing Page com Shadcn/Vue
 
 ## Deploy
-Deploy do projeto: 
+Deploy do projeto: https://landing-page-shadcn-vue-fagioni.netlify.app/
 
 ## Seções
 
